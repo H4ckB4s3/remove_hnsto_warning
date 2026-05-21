@@ -1,6 +1,6 @@
 # HNS.TO Warning Removal
 
-This repository demonstrates a simple HTML page displaying "Hello World" with accompanying CSS to remove specific elements.
+CSS to remove specific hns.to elements.
 
 ## Usage
 
